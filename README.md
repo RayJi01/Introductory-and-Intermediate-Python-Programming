@@ -7,4 +7,6 @@ The topic covered are:
   2. If else statement and branches
   3. While and for loop and user interactions games
   4. Functions
-  5. 
+  5. Functions implementation on Project and real game: Tic Tac Toe
+  6. File Input Stream and program implementation
+  7. Dictionaries
