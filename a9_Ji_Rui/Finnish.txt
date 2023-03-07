@@ -1,0 +1,3 @@
+Words translated from English to Finnish
+bird = lintu
+rabbit = kani
